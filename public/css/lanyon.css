@@ -75,16 +75,16 @@ h1, h2, h3, h4, h5, h6 {
  */
 
 .container {
-  max-width: 28rem;
+  max-width: 18rem;
 }
-@media (min-width: 38em) {
+@media (min-width: 18em) {
   .container {
-    max-width: 32rem;
+    max-width: 12rem;
   }
 }
-@media (min-width: 56em) {
+@media (min-width: 16em) {
   .container {
-    max-width: 38rem;
+    max-width: 18rem;
   }
 }
 
@@ -192,7 +192,7 @@ a.sidebar-nav-item:focus {
   border-color: transparent;
 }
 
-@media (min-width: 12em) {
+@media (min-width: 48em) {
   .sidebar-item {
     padding: 1.5rem;
   }
