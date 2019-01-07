@@ -116,7 +116,7 @@ h1, h2, h3, h4, h5, h6 {
   letter-spacing: 0;
 }
 
-@media (max-width: 8em) {
+@media (max-width: 48em) {
   .masthead-title {
     text-align: center;
   }
@@ -157,7 +157,7 @@ h1, h2, h3, h4, h5, h6 {
   -webkit-transition: all .3s ease-in-out;
           transition: all .3s ease-in-out;
 }
-@media (min-width: 30em) {
+@media (min-width: 10em) {
   .sidebar {
     font-size: .85rem; /* 14px */
   }
