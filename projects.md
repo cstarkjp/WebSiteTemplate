@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Selected Projects -- C. P. Stark
+title: Projects
 lc_title: projects
 ---
 
