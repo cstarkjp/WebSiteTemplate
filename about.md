@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-ghurl: /tmp/about
+name: about
 ---
 
 TBD
