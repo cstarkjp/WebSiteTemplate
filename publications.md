@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications
-name: publications
+lc_title: publications
 ---
 
 ### Preprints

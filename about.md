@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-name: about
+lc_title: about
 ---
 
 TBD
