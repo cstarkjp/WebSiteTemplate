@@ -58,7 +58,7 @@ h1, h2, h3, h4, h5, h6 {
  * Wrapper
  *
  * The wrapper is used to position site content when the sidebar is toggled. We
- * use an outter wrap to position the sidebar without interferring with the
+ * use an outer wrap to position the sidebar without interfering with the
  * regular page content.
  */
 
@@ -75,14 +75,14 @@ h1, h2, h3, h4, h5, h6 {
  */
 
 .container {
-  max-width: 28rem;
+  max-width: 32rem;
 }
-@media (min-width: 38em) {
+@media (min-width: 32em) {
   .container {
     max-width: 32rem;
   }
 }
-@media (min-width: 56em) {
+@media (min-width: 32em) {
   .container {
     max-width: 38rem;
   }
@@ -192,7 +192,7 @@ a.sidebar-nav-item:focus {
   border-color: transparent;
 }
 
-@media (min-width: 18em) {
+@media (min-width: 48em) {
   .sidebar-item {
     padding: 1.5rem;
   }
