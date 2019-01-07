@@ -75,16 +75,16 @@ h1, h2, h3, h4, h5, h6 {
  */
 
 .container {
-  max-width: 18rem;
+  max-width: 28rem;
 }
-@media (min-width: 18em) {
+@media (min-width: 38em) {
   .container {
-    max-width: 12rem;
+    max-width: 32rem;
   }
 }
-@media (min-width: 16em) {
+@media (min-width: 56em) {
   .container {
-    max-width: 18rem;
+    max-width: 38rem;
   }
 }
 
@@ -116,7 +116,7 @@ h1, h2, h3, h4, h5, h6 {
   letter-spacing: 0;
 }
 
-@media (max-width: 18em) {
+@media (max-width: 8em) {
   .masthead-title {
     text-align: center;
   }
