@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications
-url: /tmp/publications
+ghurl: /tmp/publications
 ---
 
 ### Preprints
