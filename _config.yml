@@ -8,7 +8,7 @@ permalink:           pretty
 title:               Colin P. Stark
 tagline:             'Geophysicist, geomorphologist, and data analyst'
 description:         'Colin P. Starks''s Homepage'
-url:                 /tmp
+url:                 '/tmp'
 baseurl:             '/tmp'
 paginate:            8
 
