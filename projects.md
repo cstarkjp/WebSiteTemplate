@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Projects
 lc_title: projects
 ---
