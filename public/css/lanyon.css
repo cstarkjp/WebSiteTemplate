@@ -64,7 +64,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .wrap {
   position: relative;
-  width: 100%;
+  width: 50%;
 }
 
 
@@ -75,14 +75,14 @@ h1, h2, h3, h4, h5, h6 {
  */
 
 .container {
-  max-width: 32rem;
+  max-width: 28rem;
 }
-@media (min-width: 32em) {
+@media (min-width: 38em) {
   .container {
     max-width: 32rem;
   }
 }
-@media (min-width: 32em) {
+@media (min-width: 56em) {
   .container {
     max-width: 38rem;
   }
