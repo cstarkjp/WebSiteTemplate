@@ -5,11 +5,11 @@ permalink:           pretty
 #relative_permalinks: true
 
 # Setup
-title:               Progressive Hypsometry
-tagline:             'and the glacial limitation of tropical mountain ranges'
-description:         'Progressive Hypsometry'
-url:                 '/tmp'
-baseurl:             '/tmp'
+title:               Glacial midslopes
+tagline:             'mapped on SRTM data using slm'
+description:         'Glacial midslopes mapped on SRTM data using slm'
+url:                 '/slm_glacial_srtm'
+baseurl:             '/slm_glacial_srtm'
 paginate:            8
 
 # About/contact
