@@ -1,1 +1,1 @@
-# Glacial midslopes mapped on SRTM data using slm
+# Template for web site front-end to a repo using gh-pages branch
