@@ -8,12 +8,12 @@ permalink:           pretty
 title:               Progressive Hypsometry
 tagline:             'and the glacial limitation of tropical mountain ranges'
 description:         'Progressive Hypsometry'
-url:                 '/PHdoc'
-baseurl:             '/PHdoc'
+url:                 '/tmp'
+baseurl:             '/tmp'
 paginate:            8
 
 # About/contact
 author:
-  name:             Max Cunningham
-  url:              https://github.com/mcunningham917
-  email:            cunningham.mt917@gmail.com
+  name:             CPS
+  url:              https://github.com/cstarknyc
+  email:            cstarknyc@gmail.com
