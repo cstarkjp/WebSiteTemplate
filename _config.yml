@@ -8,8 +8,8 @@ permalink:           pretty
 title:               Temporary
 tagline:             'illustrating basic web site set-up'
 description:         'A Lanyon-themed gh-pages web site'
-url:                 '/Web_site_template'
-baseurl:             '/Web_site_template'
+url:                 '/WebSiteTemplate'
+baseurl:             '/WebSiteTemplate'
 paginate:            8
 
 # About/contact
